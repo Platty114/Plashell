@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include "loop.h"
 
 void psh_loop() {
     char * stdin_line;
